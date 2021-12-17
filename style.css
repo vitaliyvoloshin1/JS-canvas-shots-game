@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.canvas__game {
+    background-image: url(./img/nebo.png);
+}
+canvas {
+    background: rgb(141, 193, 252);
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
